@@ -28,5 +28,4 @@ document.getElementById("second­-die").className = secondDie;
 
 
 
-
 		
